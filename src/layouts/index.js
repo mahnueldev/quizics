@@ -1,1 +1,1 @@
-// export { default as Header} from './Header';
+export { default as Trivia} from './Trivia';
